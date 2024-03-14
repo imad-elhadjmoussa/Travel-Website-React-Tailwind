@@ -5,7 +5,7 @@ export const Hero = () => {
     return (
         <div
             style={{ backgroundImage: `url(${heroBg})` }}
-            className='h-screen flex flex-col gap-7 justify-center items-center bg-slate-400 bg-cover md:bg-no-repeat md:bg-center'
+            className='h-screen flex flex-col gap-7 justify-center items-center bg-cover md:bg-no-repeat md:bg-center'
         >
             <h1 className='text-5xl text-center font-bold text-white'>
                 Your Journey Your Story
